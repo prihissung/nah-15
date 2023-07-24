@@ -27,15 +27,15 @@
 
 
 h1{
-    font-size: 83px;
+    font-size: 63px;
     color: #ffffff;
-    font-weight: 800;
+    font-weight: 500;
 }
 
 h2{
     font-size: 74px;
     color:#303030;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 h3{
@@ -45,9 +45,9 @@ h3{
 }
 
 p{
-    font-size: 80px;
+    font-size: 50px;
     color:#303030;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 /* style.css */
