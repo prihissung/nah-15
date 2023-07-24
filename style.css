@@ -122,9 +122,9 @@ p{
     margin-top: 35px;
 }
 
-/*.home-text p {
+.home-text p {
     margin-bottom: 3rem;
-}*/
+}
 
 .home-btn:hover {
     background: #fc4c35;
