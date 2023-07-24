@@ -78,8 +78,8 @@ p{
   }
 
   .text-container h5{
-    font-size: 40px;
-    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-family: 'Noto Serif', serif;
     color: #ffffff;
   }
   
@@ -242,3 +242,8 @@ p{
  #fpresente{
     background: #EEEE;
   }
+
+.btn-personalizado {
+  font-size: 60px; /* Defina o tamanho desejado em pixels */
+}
+
