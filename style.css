@@ -215,14 +215,20 @@ p{
   }
   
   #ffooter{
-    
     font-size: 1rem;
   }
 
+#ffooter.p{
+     font-size: 50px;
+}
+    
  #fpresente{
     background: #EEEE;
   }
 
+ #fpresente.p{
+    font-size: 50px;
+  }
 .btn-personalizado {
   font-size: 50px; /* Defina o tamanho desejado em pixels */
 }
