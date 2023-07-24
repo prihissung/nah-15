@@ -32,21 +32,21 @@ h1{
 }
 
 h2{
-    font-size: 54px;
+    font-size: 74px;
     color:#303030;
     font-weight: 600;
 }
 
 h3{
-    font-size: 38px;
+    font-size: 58px;
     color:#303030;
     font-weight: 600;
 }
 
 p{
-    font-size: 20px;
+    font-size: 50px;
     color:#303030;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 /* style.css */
@@ -86,27 +86,6 @@ p{
   .img-personalizada {
     width: 1px; /* Defina o tamanho desejado em pixels */
   }
-/*.carousel-caption{
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
- }*/
-
-/*#initio h1{
-    font-size: 80px;
-    color: #b0eaf1;
-    text-shadow: 200px 200px;
-}*/
-
-
-
-/*.carousel-caption h2{
-    font-size: 80px;
-    color: #b0eaf1;
-    text-shadow: 200px 200px;
-}*/
 
 .card-body {
     background: linear-gradient(72deg, #82dadf49 10%, #2da7ee57 90%);
@@ -182,7 +161,7 @@ p{
   }
 #timer{
     font-family: 'Poppins', sans-serif;
-    font-size: 63px;
+    font-size: 73px;
     color: #89713E;
     padding: 40px;
 
@@ -197,6 +176,7 @@ p{
 
   #cronometro h1{
     color: #B97600;
+    font-size: 80px;
   }
 
   .cronometro{
