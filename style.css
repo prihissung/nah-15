@@ -97,20 +97,14 @@ h2, h3, h5 {
   padding: 40px;
 }
 
-#dress {
-  width: 200%; /* Defina a largura desejada em relação à largura original da imagem */
-  max-width: 800px; /* Defina a largura máxima para evitar que a imagem fique muito grande em telas maiores */
-  display: block;
-  margin: 0 auto; /* Centraliza a imagem horizontalmente */
-  padding: 40px;
+.card-img-dress {
+  width: 70%; /* Defina a largura desejada em relação à largura original da imagem */
 }
 
-#dress h3{
-  font-size: 28px;
-  color:#B97600;
-  font-weight: 100;
+h3#dress {
+  color: #B97600;
+  font-size: 50px;
   font-family: 'Poppins', sans-serif;
-  
 }
 
 .img-personalizada {
