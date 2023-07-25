@@ -69,6 +69,7 @@ p{
 .text-container h1{
   font-family: 'Lobster', cursive;
   font-size: 150px;
+  
 }
 
 .text-container h3{
@@ -84,6 +85,30 @@ p{
 }
 
 h2, h3, h5 {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+#brinde {
+  width: 100%; /* Defina a largura desejada em relação à largura original da imagem */
+  max-width: 500px; /* Defina a largura máxima para evitar que a imagem fique muito grande em telas maiores */
+  display: block;
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+  padding: 40px;
+}
+
+#dress {
+  width: 200%; /* Defina a largura desejada em relação à largura original da imagem */
+  max-width: 800px; /* Defina a largura máxima para evitar que a imagem fique muito grande em telas maiores */
+  display: block;
+  margin: 0 auto; /* Centraliza a imagem horizontalmente */
+  padding: 40px;
+}
+
+#dress h3{
+  font-size: 28px;
+  color:#303030;
+  font-weight: 100;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -209,3 +234,7 @@ font-size: 40px; /* Defina o tamanho desejado em pixels */
 background-color: #B97600;
 }
 
+svg{
+  overflow:hidden;
+  vertical-align: middle;
+}
