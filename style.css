@@ -110,6 +110,7 @@ h2, h3, h5 {
   color:#303030;
   font-weight: 100;
   font-family: 'Poppins', sans-serif;
+  background-color: #B97600;
 }
 
 .img-personalizada {
@@ -227,6 +228,7 @@ font-size: 50px; /* Defina o tamanho desejado em pixels */
 
 .btn-personalizadol{
 font-size: 40px; /* Defina o tamanho desejado em pixels */
+background-color: #B97600;
 }
 
 .btn-personalizados{
